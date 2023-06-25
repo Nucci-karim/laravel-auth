@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('dashboard')
 @section('content')
 <h1 class="text-center">sono la pagina admin index</h1>
 <div class="row gap-2 justify-content-center">
